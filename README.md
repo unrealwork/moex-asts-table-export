@@ -43,3 +43,38 @@
 ```
 
 * Exported tables are availble in tables dir
+
+```sh
+tables
+├── ACCOUNT_BALANCE.csv
+├── ASSETS.csv
+├── BANK.csv
+├── BANKACC.csv
+├── BANKACC_FULLCOVERED_LIMITS.csv
+├── BANKUSE.csv
+├── CLEARING_TRADES.csv
+├── CURRENCY.csv
+├── FIRMS.csv
+├── FIRM_HOLDING_TOTAL.csv
+├── GCPOOL.csv
+├── GCPOOLASSET.csv
+├── INSTRUMENTS.csv
+├── POSITIONS.csv
+├── RESYSTIME.csv
+├── RM_FULLCOVERED_RANGE.csv
+├── RM_HOLD.csv
+├── RM_HOLD_DETL.csv
+├── RM_INDICATIVE.csv
+├── RM_POSN.csv
+├── RM_PRICERANGE.csv
+├── RM_PRICERANGE_FIRM.csv
+├── RM_TRDACC.csv
+├── RM_TRDACC_PRICERANGE.csv
+├── SECACCINT.csv
+├── SECURITIES.csv
+├── STATS.csv
+├── TRADES.csv
+├── TRANTYPES.csv
+├── TRDACC.csv
+└── USERS.csv
+```
