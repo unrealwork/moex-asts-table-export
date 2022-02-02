@@ -2,7 +2,7 @@
 
 ### Usage
 
-* Download relase and unpack it.
+* Download [release](https://github.com/unrealwork/moex-asts-table-export/releases/download/0.0.1/moex-asts-table-export-0.0.1-bin.zip) and unpack it.
 
 ```sh
 .
